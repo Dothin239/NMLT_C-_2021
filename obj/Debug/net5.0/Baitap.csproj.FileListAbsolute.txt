@@ -1,0 +1,128 @@
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+E:\01 Github\01-C-Sharp\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Review\Sep 12\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 13\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 14\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 18\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Sep 25\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.AssemblyReference.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfoInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.AssemblyInfo.cs
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.csproj.CoreCompileInputs.cache
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\Baitap.exe
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\Baitap.deps.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\Baitap.runtimeconfig.dev.json
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\ref\Baitap.dll
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\bin\Debug\net5.0\Baitap.pdb
+D:\My Documents\2. Document Do\2. IT Development\Sources\NMLT\Mang 1 chieu\2. Review\Oct 02\01 CN2\Baitap\obj\Debug\net5.0\Baitap.genruntimeconfig.cache
